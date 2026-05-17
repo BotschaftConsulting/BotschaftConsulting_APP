@@ -1,0 +1,9 @@
+#setup
+
+Gehe zu 👉 https://console.firebase.google.com
+Projekt erstellen
+Android App hinzufügen:
+Package: com.example.todoapp
+Lade google-services.json runter
+Packe es in:
+app/google-services.json
